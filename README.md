@@ -1,4 +1,4 @@
-# CRISPR Target Finder
+# CRISPR Target Finder v1.0
 #### Video Demo: https://www.youtube.com/watch?v=m_TxH70sfSU
 #### Description:
 
